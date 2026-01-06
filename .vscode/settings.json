@@ -1,0 +1,5 @@
+{
+    "command-runner.commands": {
+        "deploy website": "jekyll serve -l -H localhost"
+    }
+}

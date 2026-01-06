@@ -1,0 +1,7 @@
+# main links links
+main:
+  - title: "Team"
+    url: /team/
+
+  - title: "Job offers"
+    url: /job_offers/
