@@ -9,6 +9,12 @@ redirect_from:
 
 Welcome to the webpage of the **Automatix** ERC project!
 
+
+<p align="center">
+  <img src="images/automatix.png" width=500 />
+</p>
+
+
 Automatix aims to improve the modeling of material behavior in solid mechanics. Accurately capturing complex phenomena (such as plasticity, damage, or environmental effects) remains a major challenge in many applications. Automatix leverages advances in *machine learning* to automatically build models from experimental data while directly embedding physical and mathematical knowledge within the learning architecture. This hybrid approach produces more reliable models, consistent with mechanical laws and less dependent on large datasets.
 
 A key outcome will be an open-source, modular, and high-performance library accessible to both academia and industry. Automatix will be applied in particular to the modeling of 3D-printed concrete at the Navier laboratory, to better predict complex phenomena such as material curing and crack formation.
