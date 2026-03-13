@@ -3,5 +3,8 @@ main:
   - title: "Team"
     url: /team/
 
+  - title: "Talks"
+    url: /talks/
+
   - title: "Job offers"
     url: /job_offers/
