@@ -6,5 +6,8 @@ main:
   - title: "Talks"
     url: /talks/
 
+  - title: "Software"
+    url: /software/
+
   - title: "Job offers"
     url: /job_offers/
