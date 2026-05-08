@@ -9,7 +9,7 @@ author_profile: true
 {% include toc %}
 
 
-## <i class="fa-brands fa-github"></i> [jaxmat](https://bleyerj.github.io/comet-fenicsx/)
+## <i class="fa-brands fa-github"></i> [jaxmat](https://erc-automatix.github.io/jaxmat/)
 
 
 
